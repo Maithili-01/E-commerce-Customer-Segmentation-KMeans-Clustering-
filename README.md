@@ -1,1 +1,1 @@
-# E-commerce-Customer-Segmentation-KMeans-Clustering-
+# customer-segmentation-for-Ecommece
